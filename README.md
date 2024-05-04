@@ -1,6 +1,6 @@
 # Maleria_detection_CNN.repo :
 - A complex enough CNN model for detection of Maleria.
-- This model detect maleria based on cellular images       provided to it
+- This model detect maleria presence based on cellular images provided to it.
 # About Notebook :
 - <b>This Colab notebook demonstrates how to train a convolutional neural network (CNN) on the CIFAR-10 dataset.<br>Structure of the Neural Network</b>:
     - The CNN consists of two convolutional layers, two max-pooling layers, and one fully-connected layer.
